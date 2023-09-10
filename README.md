@@ -38,6 +38,11 @@
               </div>
                 <div class="row d-flex justify-content-center containing">
                     <div id="carouselExample" class="  carousel slide col-md-7 col-12 pt-5" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                          <li data-target="#carouselExample" data-slide-to="0" class="active" class="bg-primary" style="background-color: rgba(0, 0, 255, 0.732);"></li>
+                          <li data-target="#carouselExample" data-slide-to="1" style="background-color: rgba(0, 0, 255, 0.732);"></li>
+                          
+                        </ol>
                         <div class="carousel-inner slider">
                           <div class="carousel-item active">
                             <img class="d-block w-100" src="images/3" alt="Slide 1">
