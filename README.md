@@ -45,7 +45,7 @@
                         </ol>
                         <div class="carousel-inner slider">
                           <div class="carousel-item active">
-                            <img class="d-block w-100" src="images/3.JPG" alt="Slide 1">
+                            <img class="d-block w-100" src="images/3.jpg" alt="Slide 1">
                           </div>
                           <!-- <div class="carousel-item">
                             <img class="d-block w-100" src="" alt="Slide 2">
