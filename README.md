@@ -22,7 +22,7 @@
               <div class="row d-flex justify-content-center">
                 <div id="inputContainer" class="myInput col-md-6 col-12 mt-4 row" >
                   <div class="col-12 d-flex justify-content-between">
-                    <img src="images/2.PNG" alt="" width="130vw" class="photo" height="30vh">
+                    <img src="images/2.png" alt="" width="130vw" class="photo" height="30vh">
                     <a href="#"><i class="fa-sharp fa-solid fa-share-nodes text-black"  style="margin-top: 10px;font-size: 35px;"></i></a>
                   </div>
                 </div>
