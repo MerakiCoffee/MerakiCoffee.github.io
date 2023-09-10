@@ -22,14 +22,14 @@
               <div class="row d-flex justify-content-center">
                 <div id="inputContainer" class="myInput col-md-6 col-12 mt-4 row" >
                   <div class="col-12 d-flex justify-content-between">
-                    <img src="images/2.png" alt="" width="130vw" class="photo" height="30vh">
+                    <img src="images/2.PNG" alt="" width="130vw" class="photo" height="30vh">
                     <a href="#"><i class="fa-sharp fa-solid fa-share-nodes text-black"  style="margin-top: 10px;font-size: 35px;"></i></a>
                   </div>
                 </div>
               </div>
 
               <div class="img">
-                <img src="images/2.png" alt="" width="130vw" class="imgLogo" height="130vh">
+                <img src="images/2.PNG" alt="" width="130vw" class="imgLogo" height="130vh">
             </div>
                 <div class="d-flex justify-content-center pt-5 ">
                   <p class="text" style=" font-family:verdana;">
@@ -45,10 +45,21 @@
                         </ol>
                         <div class="carousel-inner slider">
                           <div class="carousel-item active">
-                            <img class="d-block w-100" src="images/3" alt="Slide 1">
+                            <img class="d-block w-100" src="images/3.PNG" alt="Slide 1">
+                          </div>
+                          <div class="carousel-item">
+                            <img class="d-block w-100" src="images/5.PNG" alt="Slide 2">
                           </div>
                          
-                        </div> 
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon " aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
                       </div>
                 </div>
             </div>
@@ -61,17 +72,35 @@
 
               <div class=" contacts mt-3 d-flex  " style="background-color: #8A4B52; border-radius: 10px; ">
                 <div class="col-11 d-flex">
-                  <img src="images/phoneIcon-removebg-preview.png" alt="" width="9%"  style="margin-left: 10px;margin-right: 10px; width:55px!important;">
-                  <a href="https://api.whatsapp.com/send/?phone=971502010036&text&type=phone_number&app_absent=0"> <p style="margin-top: 10px; color: #E3DCD9; font-family:verdana;  font-size:17px;"> للتواصل معنا على الواتس </p></a>
+                  <img src="images/phoneIcon-removebg-preview.png" alt="" width="9%"  style="margin-left: 10px;margin-right: 10px;">
+                  <a href="http://wa.me/971502010036"> <p style="margin-top: 10px; color: E3DCD9; font-family:verdana;  font-size:17px;">للتواصل معنا على الواتس</p></a>
                 </div>
-               </div>
+               <!-- <div class="col-1">
+               <a href="http://wa.me/966534667064"><i class="fa-solid fa-arrow-up-right-from-square text-white "  style="text-align: end;"></i></a>
+               </div> -->
+              </div>
 
               <div class=" contacts mt-2 d-flex  " style="background-color: #E3DCD9; border-radius: 10px; ">
                <div class="col-11 d-flex"> 
-                <img src="images/phoneIcon-removebg-preview.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px; width:55px!important;">
-                <a href="tel:026712936"> <p style="margin-top: 10px; color: #8A4B52; font-family:verdana; font-size:17px;"> رقم الهاتف </p></a>
-              </div> 
+                <img src="images/phoneIcon-removebg-preview.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px;">
+                <a href="tel:+971026712936"> <p style="margin-top: 10px; color: 8A4B52; font-family:verdana; font-size:17px;">رقم الهاتف</p></a>
               </div>
+              <!-- <div class="col-1">
+                <a href="http://wa.me/0534667064"><i class="fa-solid fa-arrow-up-right-from-square text-white "  style="text-align: end;"></i></a>
+              </div> -->
+              </div>
+
+
+              <!-- <div class=" contacts mt-2 d-flex  " style="background-color: #35312d; border-radius: 10px; ">
+                <div class="col-11 d-flex ">
+                <img src="images/phoneIcon-removebg-preview.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px;">
+                <a href="http://wa.me/966*********"><p style="margin-top: 10px; color: white;">عينة لإضافة زر</p></a>
+                </div>
+                <div class="col-1">
+                  <a href="http://wa.me/966*********"><i class="fa-solid fa-arrow-up-right-from-square text-white "  style="text-align: end;"></i></a>
+                </div>
+              </div> -->
+
 
               <div class="d-flex justify-content-center mt-3"><p class="text " style="color: #704651; font-family:verdana;"> مواقعنا</p></div>
 
@@ -80,9 +109,11 @@
               <div class=" contacts mt-3 d-flex  " style="background-color: #704651; border-radius: 10px; ">
                 
                 <div class="col-11 d-flex">
-                  <img src="images/Location-Transparent.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px; width:55px!important;">
-                  <a href="https://maps.app.goo.gl/uFAgRDySK446h8EJ8?g_st=ic"> <p style="margin-top: 10px; color: white; font-family:verdana; font-size:17px;"> موقعنا </p></a>
+                  <img src="images/Location-Transparent.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px;">
+                  <a href="https://maps.app.goo.gl/K1zATdK3ALCqUuFq6?g_st=ic"> <p style="margin-top: 10px; color: E3DCD9; font-family:verdana; font-size:17px;"> غبشة الدمام </p></a>
                </div>
+               <div class="col-1">
+                <a href="https://maps.app.goo.gl/K1zATdK3ALCqUuFq6?g_st=ic"><i class="fa-sharp fa-solid fa-share-nodes text-white " style="text-align: end;"></i></a> 
               </div>
               </div>
 
@@ -90,6 +121,7 @@
               <div class="d-flex justify-content-center mt-3"><p class="text " style="color: #704651; font-family:verdana;">  تابعونا لمعرفة كل جديد</p></div>
               <div class="d-flex justify-content-center mt-5 mb-5">
                 <a href="https://www.instagram.com/p/CvuBH4Ixb7U/?igshid=NjFhOGMzYTE3ZQ==" class="text-dark"> <i class="fa-brands fa-instagram fa-2xl mx-2"></i></a>
+                           
                </div>
             </div>
              
