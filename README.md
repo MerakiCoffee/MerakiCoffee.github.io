@@ -40,7 +40,7 @@
                     <div id="carouselExample" class="  carousel slide col-md-7 col-12 pt-5" data-ride="carousel">
                         <div class="carousel-inner slider">
                           <div class="carousel-item active">
-                            <img class="d-block w-100" src="images/3.jpg" alt="Slide 1">
+                            <img class="d-block w-100" src="images/3" alt="Slide 1">
                           </div>
                          
                         </div> 
