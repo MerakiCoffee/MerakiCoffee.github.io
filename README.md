@@ -22,14 +22,14 @@
               <div class="row d-flex justify-content-center">
                 <div id="inputContainer" class="myInput col-md-6 col-12 mt-4 row" >
                   <div class="col-12 d-flex justify-content-between">
-                    <img src="images/2.PNG" alt="" width="130vw" class="photo" height="30vh">
+                    <img src="images/2.png" alt="" width="130vw" class="photo" height="30vh">
                     <a href="#"><i class="fa-sharp fa-solid fa-share-nodes text-black"  style="margin-top: 10px;font-size: 35px;"></i></a>
                   </div>
                 </div>
               </div>
 
               <div class="img">
-                <img src="images/2.PNG" alt="" width="130vw" class="imgLogo" height="130vh">
+                <img src="images/2.png" alt="" width="130vw" class="imgLogo" height="130vh">
             </div>
                 <div class="d-flex justify-content-center pt-5 ">
                   <p class="text" style=" font-family:verdana;">
@@ -45,10 +45,10 @@
                         </ol>
                         <div class="carousel-inner slider">
                           <div class="carousel-item active">
-                            <img class="d-block w-100" src="images/3.PNG" alt="Slide 1">
+                            <img class="d-block w-100" src="images/3.png" alt="Slide 1">
                           </div>
                           <div class="carousel-item">
-                            <img class="d-block w-100" src="images/5.PNG" alt="Slide 2">
+                            <img class="d-block w-100" src="images/5.png" alt="Slide 2">
                           </div>
                          
                         </div>
