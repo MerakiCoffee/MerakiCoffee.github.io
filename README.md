@@ -29,7 +29,7 @@
               </div>
 
               <div class="img">
-                <img src="images/2.PNG" alt="" width="130vw" class="imgLogo" height="130vh">
+                <img src="images/2.png" alt="" width="130vw" class="imgLogo" height="130vh">
             </div>
                 <div class="d-flex justify-content-center pt-5 ">
                   <p class="text" style=" font-family:verdana;">
