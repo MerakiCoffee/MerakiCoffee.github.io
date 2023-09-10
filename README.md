@@ -39,17 +39,11 @@
                 <div class="row d-flex justify-content-center containing">
                     <div id="carouselExample" class="  carousel slide col-md-7 col-12 pt-5" data-ride="carousel">
                         <ol class="carousel-indicators">
-                          <!-- <li data-target="#carouselExample" data-slide-to="0" class="active" class="bg-primary" style="background-color: #8A4B52;"></li>
-                          <li data-target="#carouselExample" data-slide-to="1" style="background-color: #8A4B52;"></li>
-                           -->
                         </ol>
                         <div class="carousel-inner slider">
                           <div class="carousel-item active">
                             <img class="d-block w-100" src="images/3.jpg" alt="Slide 1">
                           </div>
-                          <!-- <div class="carousel-item">
-                            <img class="d-block w-100" src="" alt="Slide 2">
-                          </div> -->
                          
                         </div>
                         <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
@@ -75,9 +69,6 @@
                   <img src="images/phoneIcon-removebg-preview.png" alt="" width="9%"  style="margin-left: 10px;margin-right: 10px; width:55px!important;">
                   <a href="https://api.whatsapp.com/send/?phone=971502010036&text&type=phone_number&app_absent=0"> <p style="margin-top: 10px; color: #E3DCD9; font-family:verdana;  font-size:17px;"> للتواصل معنا على الواتس </p></a>
                 </div>
-               <!-- <div class="col-1">
-               <a href=""><i class="fa-solid fa-arrow-up-right-from-square text-white "  style="text-align: end;"></i></a>
-               </div> -->
                </div>
 
               <div class=" contacts mt-2 d-flex  " style="background-color: #E3DCD9; border-radius: 10px; ">
@@ -85,22 +76,7 @@
                 <img src="images/phoneIcon-removebg-preview.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px; width:55px!important;">
                 <a href="tel:026712936"> <p style="margin-top: 10px; color: #8A4B52; font-family:verdana; font-size:17px;"> رقم الهاتف </p></a>
               </div> 
-              <!-- <div class="col-1">
-                <a href=""><i class="fa-solid fa-arrow-up-right-from-square text-white "  style="text-align: end;"></i></a>
-              </div> -->
               </div>
-
-
-              <!-- <div class=" contacts mt-2 d-flex  " style="background-color: #35312d; border-radius: 10px; ">
-                <div class="col-11 d-flex ">
-                <img src="images/phoneIcon-removebg-preview.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px;">
-                <a href=""><p style="margin-top: 10px; color: white;">عينة لإضافة زر</p></a>
-                </div>
-                <div class="col-1">
-                  <a href=""><i class="fa-solid fa-arrow-up-right-from-square text-white "  style="text-align: end;"></i></a>
-                </div>
-              </div> -->  
-
 
               <div class="d-flex justify-content-center mt-3"><p class="text " style="color: #704651; font-family:verdana;"> مواقعنا</p></div>
 
@@ -112,32 +88,13 @@
                   <img src="images/Location-Transparent.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px; width:55px!important;">
                   <a href="https://maps.app.goo.gl/uFAgRDySK446h8EJ8?g_st=ic"> <p style="margin-top: 10px; color: white; font-family:verdana; font-size:17px;"> موقعنا </p></a>
                </div>
-        <!-- <div class="col-1">
-                <a href=""><i class="fa-sharp fa-solid fa-share-nodes text-white " style="text-align: end;"></i></a> 
-               </div> -->
               </div>
-
-
-              <!-- <div class=" contacts mt-2 d-flex  " style="background-color: #8c2a3c; border-radius: 10px; ">
-               <div class="col-11 d-flex"> 
-                <img src="images/Location-Transparent.png" alt=""  width="9%" style="margin-left: 10px;margin-right: 10px; width:55px!important;">
-                <a href=""> 
-                   <p style="margin-top: 10px; color: white; font-family:verdana; font-size:17px;">غبشة الخبر</p>
-                </a>
-              </div> -->
-              <!-- <div class="col-1">
-               <a href="">
-                <i class="fa-sharp fa-solid fa-share-nodes text-white " style="text-align: end;"></i></a> 
-              </div> -->
               </div>
 
 
               <div class="d-flex justify-content-center mt-3"><p class="text " style="color: #704651; font-family:verdana;">  تابعونا لمعرفة كل جديد</p></div>
               <div class="d-flex justify-content-center mt-5 mb-5">
                 <a href="https://www.instagram.com/p/CvuBH4Ixb7U/?igshid=NjFhOGMzYTE3ZQ==" class="text-dark"> <i class="fa-brands fa-instagram fa-2xl mx-2"></i></a>
-                           
-                <!-- <a href="" class="text-dark"><i class="fa-brands fa-tiktok fa-2xl mx-2"></i></a>
-                <a href="" class="text-dark"><i class="fa-regular fa-envelope fa-2xl"></i></a> -->
                </div>
             </div>
              
